@@ -18,22 +18,40 @@
 
 **Link to work:** [ReactCourse-Playground](https://github.com/AliLastReza/ReactCourse-Playground/tree/d0ce869c2a57f3db6ed955711e5356bc27d41bba)
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: December 15, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+* Created [Full-Stack-Online-Shop repo](4f549819d59a1272ca65b0e91440b0cdd292f971), and defined some basics, like "What It's going to be?" and "How to accomplish that? and what are the details?" ([commit](b45d9cd569ebeb1f50d0cca9613bf3bf1c99e43b))
+* Wrote 2 services of docker-compose and backend/Dockerfile file ([commit](be1022adc4b8dfcb8cba0c32ca62e97d141a1e3e))
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** As of today, I hadn't written a docker-compose and Dockerfile, I had worked with them but hadn't started a project with them. It was nice to start a project from scratch with a docker-compose and Dockerfile :)
 
+**Link to work:** [Full-Stack-Online-Shop project](be1022adc4b8dfcb8cba0c32ca62e97d141a1e3e)
 
-### Day 1: June 27, Monday
+### Day 2: December 16, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**:
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+* Completed docker-compose.yml, it's working, refactored to version 3.9, added envs
+* Wrote `requirements.md`, "General Idea" and "Client's Requirements" sections
+* Added `.env` to local development
+* Fixed a lot of bugs about `docker-compose.yml`
+* Completed `settings.py` for now
+* Installed django, django-oscar, django-environ and started the project with them
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Thoughts:** Now I have some better experiences in docker compose, django-oscar, Dockerfile. Today I put more time to it and got better result. And I feel every day I get more interested about coding more. 
+
+**Link to work:** [Full-Stack-Online-Shop project](https://github.com/AliLastReza/Full-Stack-Online-Shop/commit/198d68363d9d3c820a99439610ddadcb4c67036c)
+
+<!-- Template -->
+<!-- ### Day __: December __, 2022
+
+**Today's Progress**:
+
+* Progress1
+
+**Thoughts:** 
+
+**Link to work:** [work](link)
+ -->
