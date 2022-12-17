@@ -44,6 +44,19 @@
 
 **Link to work:** [Full-Stack-Online-Shop project](https://github.com/AliLastReza/Full-Stack-Online-Shop/commit/198d68363d9d3c820a99439610ddadcb4c67036c)
 
+### Day 3: December 17, 2022
+
+**Today's Progress**:
+
+* Wrote some parts of "Building an e-commerce site: the key questions", "Apps and Models" in requirements.md
+* Wrote first draft of Oscar's status pipline, hided "reviews", "wishlists" features
+* Created a .gitignore from toptal.com
+* Forked Django-Oscar's shipping app
+
+**Thoughts:** Now I have some better experiences in docker compose, django-oscar, Dockerfile. Today I put more time to it and got better result. And I feel every day I get more interested about coding more.
+
+**Link to work:** [Full-Stack-Online-Shop project](
+
 <!-- Template -->
 <!-- ### Day __: December __, 2022
 
