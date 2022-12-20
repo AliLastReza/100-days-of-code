@@ -27,7 +27,7 @@
 
 **Thoughts:** As of today, I hadn't written a docker-compose and Dockerfile, I had worked with them but hadn't started a project with them. It was nice to start a project from scratch with a docker-compose and Dockerfile :)
 
-**Link to work:** [Full-Stack-Online-Shop project](be1022adc4b8dfcb8cba0c32ca62e97d141a1e3e)
+**Link to work:** Full-Stack-Online-Shop project ([commit be1022adc4b8dfcb8cba0c32ca62e97d141a1e3e](https://github.com/AliLastReza/Full-Stack-Online-Shop/tree/be1022adc4b8dfcb8cba0c32ca62e97d141a1e3e))
 
 ### Day 2: December 16, 2022
 
@@ -42,7 +42,7 @@
 
 **Thoughts:** Now I have some better experiences in docker compose, django-oscar, Dockerfile. Today I put more time to it and got better result. And I feel every day I get more interested about coding more. 
 
-**Link to work:** [Full-Stack-Online-Shop project](https://github.com/AliLastReza/Full-Stack-Online-Shop/commit/198d68363d9d3c820a99439610ddadcb4c67036c)
+**Link to work:** Full-Stack-Online-Shop project ([commit 198d68363d9d3c820a99439610ddadcb4c67036c](https://github.com/AliLastReza/Full-Stack-Online-Shop/tree/198d68363d9d3c820a99439610ddadcb4c67036c))
 
 ### Day 3: December 17, 2022
 
@@ -55,7 +55,7 @@
 
 **Thoughts:** Now I have some better experiences in docker compose, django-oscar, Dockerfile. Today I put more time to it and got better result. And I feel every day I get more interested about coding more.
 
-**Link to work:** [Full-Stack-Online-Shop project](
+**Link to work:** ___
 
 ### Day 4: December 18, 2022
 
@@ -77,6 +77,18 @@
 **Thoughts:** I'm going in the right direction I think :)
 
 **Link to work:** ___
+
+### Day 6: December 20, 2022
+
+**Today's Progress (Full-Stack-Online-Shop project)**:
+
+* Fixed a bug in `apps.shipping.repository.Repository.get_available_shipping_methods`
+* Tried setting up "add to cart" to "Successful purchase" journey. Saw countries' drop down doesn't show any country, figured out it's because all countries shipping flag is False, fixed it.
+* Tried to install and setup Paypal gateway. It just supports Django 2.2 and I'm using 3.2 so searched to decide what I better do
+
+**Thoughts:** Coding 1 hour a day is great and hard at the same time :)
+
+**Link to work:** Full-Stack-Online-Shop ([commit 974d49cd279d3ba7bae2371f62150d1b22189929](https://github.com/AliLastReza/Full-Stack-Online-Shop/commit/974d49cd279d3ba7bae2371f62150d1b22189929))
 
 <!-- Template -->
 <!-- ### Day __: December __, 2022
