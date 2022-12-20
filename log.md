@@ -57,6 +57,27 @@
 
 **Link to work:** [Full-Stack-Online-Shop project](
 
+### Day 4: December 18, 2022
+
+**Today's Progress**:
+
+* I was working on a private project, Upwork crawler. It seems Upwork blocks crawlers. So I can't use python's `requests` package.
+
+**Thoughts:** It's a hard task and I better be more patient.
+
+**Link to work:** ___
+
+### Day 5: December 19, 2022
+
+**Today's Progress**:
+
+* Worked on Upwork's crawler, wrote a small README.md
+* Learned some new stuff about crawling, inspected network, tried to request like web browser
+
+**Thoughts:** I'm going in the right direction I think :)
+
+**Link to work:** ___
+
 <!-- Template -->
 <!-- ### Day __: December __, 2022
 
